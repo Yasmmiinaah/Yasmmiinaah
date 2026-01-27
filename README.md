@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Turning+Data+Into+Insights&center=true&width=500&height=50">
 </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Doha%20Abdelrahman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!--
 **Yasmmiinaah/Yasmmiinaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
