@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Turning+Data+Into+Insights&center=true&width=500&height=50">
+</h1>
 
 <!--
 **Yasmmiinaah/Yasmmiinaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
