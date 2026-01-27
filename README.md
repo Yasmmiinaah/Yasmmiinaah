@@ -3,7 +3,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Turning+Data+Into+Insights&center=true&width=520&height=45&color=ffffff">
 </h3>
----
+
 
 ## 👋 About Me
 
@@ -56,11 +56,8 @@ Currently, I’m focused on strengthening my machine learning foundations and ap
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/yasmenramadan">
     <img src="https://img.shields.io/badge/LinkedIn-0B1D3A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://doha-abdelrahman.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-102A43?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
