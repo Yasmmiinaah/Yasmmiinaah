@@ -12,7 +12,6 @@ Hi, I'm **Yasmin Ramadan** — a passionate learner in **Data Science & Machine 
 I enjoy working on real-world datasets, building predictive models, and creating clean, interactive dashboards that support data-driven decisions.  
 Currently, I’m focused on strengthening my machine learning foundations and applying them through hands-on projects.
 
-🔗 **Portfolio:** https://doha-abdelrahman.vercel.app/
 
 ---
 
