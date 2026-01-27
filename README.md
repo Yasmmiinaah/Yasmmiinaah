@@ -18,6 +18,9 @@ I’m especially interested in roles where data is used to **support decisions, 
 - I care about **interpretability as much as accuracy**
 - I prefer building things that can actually be used, not just trained
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
 
 <!--
 **Yasmmiinaah/Yasmmiinaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
