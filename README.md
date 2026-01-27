@@ -60,6 +60,8 @@ Currently, I’m focused on strengthening my machine learning foundations and ap
   </a>
 </p>
 
+![snake gif](https://github.com/YasminRamadan/YasminRamadan/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Yasmmiinaah/Yasmmiinaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
