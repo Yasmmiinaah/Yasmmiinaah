@@ -4,6 +4,12 @@
 </h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Yasmin%20Ramadan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Doha%20Abdelrahman&fontSize=40&fontColor=ffffff" />
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Learner;Building+Real-World+Projects&center=true&width=500&height=45">
+</h3>
+
 <!--
 **Yasmmiinaah/Yasmmiinaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
