@@ -6,7 +6,7 @@
 </h3>
 
 
-## 👋 About Me
+##  About Me 👩‍💻
 
 Hi, I'm Yasmin Ramadan — a passionate learner in Data Science & Machine Learning with a strong interest in transforming raw data into meaningful insights.
 
