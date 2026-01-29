@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:102a43&height=220&section=header&text=Yasmin%20Ramadan&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yasmin+Ramadan👋;Machine+Learning+Engineer;Data+Science+Enthusiast;Turning+Data+Into+Insights&center=true&width=520&height=45&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yasmin+Ramadan👩‍💻;Machine+Learning+Engineer;Data+Science+Enthusiast;Turning+Data+Into+Insights&center=true&width=520&height=45&color=ffffff">
 </h3>
 
 
